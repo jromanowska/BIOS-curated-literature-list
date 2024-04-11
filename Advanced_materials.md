@@ -1,3 +1,11 @@
+## Missing data imputation
+
+### R (and theory)
+
+- [Flexible imputation of missing data](https://stefvanbuuren.name/fimd/) - 📖 book by Stef van Buuren
+- [{mice} package](https://amices.org/mice/)
+- many other materials and packages: [amices](https://amices.org/)
+
 ## Mixed models, etc.
 
 ### Theory
