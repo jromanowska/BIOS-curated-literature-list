@@ -1,3 +1,9 @@
+## Sensitivity analyses
+
+### R
+
+- [{episensr} package](https://dhaine.github.io/episensr/index.html) - quantitative bias analyses
+
 ## Missing data imputation
 
 ### R (and theory)
