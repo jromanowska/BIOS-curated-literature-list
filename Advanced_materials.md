@@ -1,3 +1,9 @@
+## General
+
+# R
+
+- [Reproducible Medical Research with R](https://bookdown.org/pdr_higgins/rmrwr/) 📖 by Peter Higgins
+
 ## Sensitivity analyses
 
 ### R
